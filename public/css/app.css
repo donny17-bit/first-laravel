@@ -1,1 +1,152 @@
+@import url("https://fonts.googleapis.com/css?family=Hind+Guntur");
 
+#home {
+    background-image: url("https://www.wallpapertip.com/wmimgs/221-2213572_wallpaper-night-city-street-lighting-traffic-sydney.jpg");
+}
+
+.navbar {
+    /* opacity: 50%; */
+    font-family: "Hind Guntur", sans-serif;
+}
+
+.navbar > div > a {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#welcome {
+    color: #dbdbdb;
+    margin-top: 13rem;
+}
+
+#bio {
+    color: #dbdbdb;
+    font-size: 50px;
+}
+
+#bio__text {
+    color: #dbdbdb;
+}
+
+#download__btn {
+    border-radius: 30px;
+    font-size: 17px;
+    font-weight: 500;
+    width: 200px;
+    height: 55px;
+}
+
+#sosmed__btn {
+    border-radius: 20px;
+    font-size: 17px;
+    font-weight: 500;
+    height: 40px;
+    width: 40px;
+}
+
+#cursor__btn {
+    border-radius: 15px;
+    height: 50px;
+}
+
+#hire__btn {
+    border-radius: 5px;
+    color: white;
+    background-color: #ff2626;
+    height: 60px;
+    width: 140px;
+}
+
+#row__services {
+    margin-top: 10rem;
+    /* margin-bottom: 8rem; */
+}
+
+#row__contentServices {
+    margin-top: 7rem;
+    /* margin-bottom: 8rem; */
+}
+
+#row__freelance {
+    background-color: #353635;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+#row__freelance > div > h1 {
+    color: white;
+}
+
+#row__contact {
+    margin-top: 15rem;
+    margin-bottom: 6rem;
+}
+
+#row__footer {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: #353635;
+}
+
+#row__footer > div > div > button {
+    border-radius: 20px;
+    height: 40px;
+    width: 40px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+#row__footer > div > div > button > img {
+    width: 15px;
+}
+
+#col__about {
+    margin-top: 7rem;
+}
+
+#h5__footer {
+    color: #8a8a8a;
+}
+
+#img {
+    width: 50rem;
+}
+
+#img__card {
+    width: 10rem;
+    align-self: center;
+    margin-top: 20px;
+}
+
+#img__cardContact {
+    width: 3rem;
+    align-self: center;
+    margin-top: 20px;
+}
+
+#img__portofolio {
+    border-radius: 5px;
+    width: 20rem;
+    /* padding-left: 6rem; */
+}
+
+#contact__form {
+    margin-left: 8rem;
+    margin-right: 8rem;
+    margin-top: 4rem;
+}
+
+#contact__form > .row > .btn {
+    border-radius: 5px;
+    color: white;
+    background-color: #80a2ff;
+    height: 60px;
+    width: 200px;
+}
+
+#contact__form > div > div > input {
+    height: 50px;
+}
